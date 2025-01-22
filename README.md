@@ -9,17 +9,17 @@ Menin flowchart qismim
 
 Codning structurasi
 
-"app/
+***app/
 │
 ├── routers/
-│   ├── users.py            # User-related endpoints
-│   ├── products.py         # Product-related endpoints
-│   ├── orders.py           # Order-related endpoints
-│   ├── auth_router.py      # Authentication endpoints (Register & Login)
+│   ├── users.py            
+│   ├── products.py         
+│   ├── orders.py           
+│   ├── auth_router.py      
 │
-├── models.py               # Database models
-├── schemas.py              # Pydantic schemas
-├── auth.py                 # JWT & authentication-related utilities
-├── services.py             # Business logic for CRUD operations
-└── main.py                 # Entry point of the application
-"
+├── models.py               
+├── schemas.py              
+├── auth.py                 
+├── services.py             
+└── main.py                 
+***
